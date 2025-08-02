@@ -1,0 +1,1502 @@
+[
+    {
+        "destination": "Paris",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Hiking",
+            "City Tours",
+            "Sightseeing"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 127,
+        "recommended_duration_days": 5,
+        "notes": "Paris is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "London",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Snorkeling",
+            "Cultural Tours",
+            "Shopping"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 158,
+        "recommended_duration_days": 5,
+        "notes": "London is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Rome",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Historic Landmarks",
+            "Hiking",
+            "Cultural Tours"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 168,
+        "recommended_duration_days": 5,
+        "notes": "Rome is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "New York",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Cultural Tours",
+            "Skiing",
+            "Snorkeling"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 140,
+        "recommended_duration_days": 5,
+        "notes": "New York is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Tokyo",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Temple Visits",
+            "City Tours",
+            "Shopping"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 171,
+        "recommended_duration_days": 7,
+        "notes": "Tokyo is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Barcelona",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Beach Relaxation",
+            "City Tours",
+            "Sightseeing"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 181,
+        "recommended_duration_days": 5,
+        "notes": "Barcelona is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Dubai",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Temple Visits",
+            "Museums",
+            "Local Cuisine"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 264,
+        "recommended_duration_days": 10,
+        "notes": "Dubai is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Singapore",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Historic Landmarks",
+            "City Tours",
+            "Museums"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 209,
+        "recommended_duration_days": 5,
+        "notes": "Singapore is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Bangkok",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Beach Relaxation",
+            "Skiing",
+            "Museums"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 272,
+        "recommended_duration_days": 7,
+        "notes": "Bangkok is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Istanbul",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Skiing",
+            "Hiking",
+            "Sightseeing"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 248,
+        "recommended_duration_days": 10,
+        "notes": "Istanbul is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Amsterdam",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Local Cuisine",
+            "Skiing",
+            "Hiking"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 166,
+        "recommended_duration_days": 5,
+        "notes": "Amsterdam is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Los Angeles",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Temple Visits",
+            "Skiing",
+            "Shopping"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 109,
+        "recommended_duration_days": 5,
+        "notes": "Los Angeles is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Prague",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Historic Landmarks",
+            "Skiing",
+            "Museums"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 243,
+        "recommended_duration_days": 10,
+        "notes": "Prague is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Vienna",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Local Cuisine",
+            "Art Galleries",
+            "City Tours"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 295,
+        "recommended_duration_days": 7,
+        "notes": "Vienna is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Sydney",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Shopping",
+            "Temple Visits",
+            "Museums"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 91,
+        "recommended_duration_days": 3,
+        "notes": "Sydney is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Rio de Janeiro",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Shopping",
+            "Skiing",
+            "Local Cuisine"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 101,
+        "recommended_duration_days": 10,
+        "notes": "Rio de Janeiro is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Cape Town",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Skiing",
+            "Snorkeling",
+            "Hiking"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 198,
+        "recommended_duration_days": 3,
+        "notes": "Cape Town is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Lisbon",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "City Tours",
+            "Art Galleries",
+            "Shopping"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 282,
+        "recommended_duration_days": 7,
+        "notes": "Lisbon is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Seoul",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Art Galleries",
+            "Beach Relaxation",
+            "Historic Landmarks"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 75,
+        "recommended_duration_days": 5,
+        "notes": "Seoul is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Toronto",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Beach Relaxation",
+            "Local Cuisine",
+            "Cultural Tours"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 281,
+        "recommended_duration_days": 3,
+        "notes": "Toronto is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Hong Kong",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Historic Landmarks",
+            "Art Galleries",
+            "Local Cuisine"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 166,
+        "recommended_duration_days": 3,
+        "notes": "Hong Kong is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Florence",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Local Cuisine",
+            "Historic Landmarks",
+            "Art Galleries"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 126,
+        "recommended_duration_days": 5,
+        "notes": "Florence is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Bali",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Local Cuisine",
+            "Snorkeling",
+            "Sightseeing"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 88,
+        "recommended_duration_days": 7,
+        "notes": "Bali is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Phuket",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Art Galleries",
+            "Skiing",
+            "Hiking"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 210,
+        "recommended_duration_days": 10,
+        "notes": "Phuket is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Canc\u00fan",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Beach Relaxation",
+            "City Tours",
+            "Art Galleries"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 257,
+        "recommended_duration_days": 5,
+        "notes": "Canc\u00fan is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Santorini",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Beach Relaxation",
+            "Museums",
+            "Snorkeling"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 100,
+        "recommended_duration_days": 3,
+        "notes": "Santorini is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Madrid",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Historic Landmarks",
+            "Snorkeling",
+            "Local Cuisine"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 224,
+        "recommended_duration_days": 10,
+        "notes": "Madrid is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Munich",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Museums",
+            "Shopping",
+            "Beach Relaxation"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 102,
+        "recommended_duration_days": 7,
+        "notes": "Munich is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Dublin",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Shopping",
+            "Skiing",
+            "Cultural Tours"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 205,
+        "recommended_duration_days": 10,
+        "notes": "Dublin is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Marrakech",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Temple Visits",
+            "Historic Landmarks",
+            "City Tours"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 259,
+        "recommended_duration_days": 7,
+        "notes": "Marrakech is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Budapest",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Temple Visits",
+            "City Tours",
+            "Historic Landmarks"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 115,
+        "recommended_duration_days": 10,
+        "notes": "Budapest is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Kuala Lumpur",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Shopping",
+            "Cultural Tours",
+            "Beach Relaxation"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 205,
+        "recommended_duration_days": 3,
+        "notes": "Kuala Lumpur is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Melbourne",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Historic Landmarks",
+            "Temple Visits",
+            "City Tours"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 221,
+        "recommended_duration_days": 7,
+        "notes": "Melbourne is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Cairo",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Beach Relaxation",
+            "Art Galleries",
+            "Shopping"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 149,
+        "recommended_duration_days": 3,
+        "notes": "Cairo is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Athens",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "City Tours",
+            "Sightseeing",
+            "Skiing"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 213,
+        "recommended_duration_days": 5,
+        "notes": "Athens is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Edinburgh",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Temple Visits",
+            "Hiking",
+            "Beach Relaxation"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 144,
+        "recommended_duration_days": 3,
+        "notes": "Edinburgh is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Reykjavik",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Beach Relaxation",
+            "Skiing",
+            "Historic Landmarks"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 51,
+        "recommended_duration_days": 7,
+        "notes": "Reykjavik is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Hanoi",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Local Cuisine",
+            "Beach Relaxation",
+            "Skiing"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 124,
+        "recommended_duration_days": 7,
+        "notes": "Hanoi is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Ho Chi Minh City",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Historic Landmarks",
+            "Temple Visits",
+            "Skiing"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 140,
+        "recommended_duration_days": 5,
+        "notes": "Ho Chi Minh City is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Venice",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Local Cuisine",
+            "Sightseeing",
+            "Shopping"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 286,
+        "recommended_duration_days": 3,
+        "notes": "Venice is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "San Francisco",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Museums",
+            "Local Cuisine",
+            "Art Galleries"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 148,
+        "recommended_duration_days": 7,
+        "notes": "San Francisco is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Nice",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Local Cuisine",
+            "Temple Visits",
+            "Cultural Tours"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 287,
+        "recommended_duration_days": 7,
+        "notes": "Nice is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Brussels",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Shopping",
+            "Art Galleries",
+            "Skiing"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 271,
+        "recommended_duration_days": 7,
+        "notes": "Brussels is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Oslo",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "City Tours",
+            "Art Galleries",
+            "Shopping"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 219,
+        "recommended_duration_days": 5,
+        "notes": "Oslo is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Zurich",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Sightseeing",
+            "Snorkeling",
+            "Skiing"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 280,
+        "recommended_duration_days": 3,
+        "notes": "Zurich is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Warsaw",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Beach Relaxation",
+            "Art Galleries",
+            "City Tours"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 144,
+        "recommended_duration_days": 5,
+        "notes": "Warsaw is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Mexico City",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Skiing",
+            "Beach Relaxation",
+            "Temple Visits"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 235,
+        "recommended_duration_days": 5,
+        "notes": "Mexico City is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Buenos Aires",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Hiking",
+            "Local Cuisine",
+            "Sightseeing"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 246,
+        "recommended_duration_days": 10,
+        "notes": "Buenos Aires is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Helsinki",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Cultural Tours",
+            "Sightseeing",
+            "Museums"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 224,
+        "recommended_duration_days": 3,
+        "notes": "Helsinki is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Stockholm",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Sightseeing",
+            "Historic Landmarks",
+            "Museums"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 169,
+        "recommended_duration_days": 7,
+        "notes": "Stockholm is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Manila",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Snorkeling",
+            "Museums",
+            "City Tours"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 51,
+        "recommended_duration_days": 7,
+        "notes": "Manila is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Doha",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Temple Visits",
+            "Historic Landmarks",
+            "Sightseeing"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 125,
+        "recommended_duration_days": 7,
+        "notes": "Doha is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Auckland",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Sightseeing",
+            "Cultural Tours",
+            "Snorkeling"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 275,
+        "recommended_duration_days": 10,
+        "notes": "Auckland is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Colombo",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Sightseeing",
+            "Hiking",
+            "Snorkeling"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 267,
+        "recommended_duration_days": 3,
+        "notes": "Colombo is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Tel Aviv",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Historic Landmarks",
+            "Skiing",
+            "Beach Relaxation"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 300,
+        "recommended_duration_days": 7,
+        "notes": "Tel Aviv is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Montreal",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Shopping",
+            "Museums",
+            "Skiing"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 64,
+        "recommended_duration_days": 7,
+        "notes": "Montreal is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Chicago",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Sightseeing",
+            "Museums",
+            "Skiing"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 267,
+        "recommended_duration_days": 5,
+        "notes": "Chicago is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Nairobi",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Art Galleries",
+            "Sightseeing",
+            "Historic Landmarks"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 177,
+        "recommended_duration_days": 5,
+        "notes": "Nairobi is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Lima",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Art Galleries",
+            "City Tours",
+            "Snorkeling"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 171,
+        "recommended_duration_days": 3,
+        "notes": "Lima is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Santiago",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Shopping",
+            "Skiing",
+            "Museums"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 300,
+        "recommended_duration_days": 7,
+        "notes": "Santiago is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Casablanca",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Museums",
+            "Historic Landmarks",
+            "Art Galleries"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 150,
+        "recommended_duration_days": 5,
+        "notes": "Casablanca is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Amman",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Cultural Tours",
+            "Temple Visits",
+            "Sightseeing"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 85,
+        "recommended_duration_days": 10,
+        "notes": "Amman is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Copenhagen",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Temple Visits",
+            "Skiing",
+            "Historic Landmarks"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 143,
+        "recommended_duration_days": 3,
+        "notes": "Copenhagen is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Brisbane",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Shopping",
+            "Art Galleries",
+            "Local Cuisine"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 95,
+        "recommended_duration_days": 7,
+        "notes": "Brisbane is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Vancouver",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "City Tours",
+            "Skiing",
+            "Art Galleries"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 266,
+        "recommended_duration_days": 5,
+        "notes": "Vancouver is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Shanghai",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Temple Visits",
+            "Snorkeling",
+            "Historic Landmarks"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 258,
+        "recommended_duration_days": 3,
+        "notes": "Shanghai is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Beijing",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Cultural Tours",
+            "Beach Relaxation",
+            "Snorkeling"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 76,
+        "recommended_duration_days": 5,
+        "notes": "Beijing is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Taipei",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Shopping",
+            "Art Galleries",
+            "Local Cuisine"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 62,
+        "recommended_duration_days": 3,
+        "notes": "Taipei is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Moscow",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Cultural Tours",
+            "City Tours",
+            "Hiking"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 292,
+        "recommended_duration_days": 7,
+        "notes": "Moscow is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Ljubljana",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Temple Visits",
+            "Cultural Tours",
+            "Local Cuisine"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 179,
+        "recommended_duration_days": 7,
+        "notes": "Ljubljana is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Luxembourg",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Art Galleries",
+            "Local Cuisine",
+            "Temple Visits"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 92,
+        "recommended_duration_days": 10,
+        "notes": "Luxembourg is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Riga",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Cultural Tours",
+            "Temple Visits",
+            "City Tours"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 232,
+        "recommended_duration_days": 7,
+        "notes": "Riga is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Tallinn",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Shopping",
+            "City Tours",
+            "Historic Landmarks"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 145,
+        "recommended_duration_days": 7,
+        "notes": "Tallinn is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Vilnius",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Local Cuisine",
+            "Cultural Tours",
+            "Art Galleries"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 83,
+        "recommended_duration_days": 5,
+        "notes": "Vilnius is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Zagreb",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Museums",
+            "Local Cuisine",
+            "Snorkeling"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 96,
+        "recommended_duration_days": 5,
+        "notes": "Zagreb is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Dubrovnik",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Museums",
+            "Sightseeing",
+            "Temple Visits"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 83,
+        "recommended_duration_days": 10,
+        "notes": "Dubrovnik is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Tbilisi",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Art Galleries",
+            "Skiing",
+            "Museums"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 235,
+        "recommended_duration_days": 5,
+        "notes": "Tbilisi is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Bucharest",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Museums",
+            "Cultural Tours",
+            "Hiking"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 109,
+        "recommended_duration_days": 10,
+        "notes": "Bucharest is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Sofia",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Skiing",
+            "Temple Visits",
+            "Hiking"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 213,
+        "recommended_duration_days": 3,
+        "notes": "Sofia is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Belgrade",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Snorkeling",
+            "Skiing",
+            "Historic Landmarks"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 218,
+        "recommended_duration_days": 10,
+        "notes": "Belgrade is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Skopje",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Art Galleries",
+            "Hiking",
+            "Snorkeling"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 271,
+        "recommended_duration_days": 10,
+        "notes": "Skopje is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Podgorica",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Historic Landmarks",
+            "Skiing",
+            "City Tours"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 58,
+        "recommended_duration_days": 3,
+        "notes": "Podgorica is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Sarajevo",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "City Tours",
+            "Sightseeing",
+            "Snorkeling"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 159,
+        "recommended_duration_days": 3,
+        "notes": "Sarajevo is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Krakow",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Shopping",
+            "Sightseeing",
+            "Snorkeling"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 52,
+        "recommended_duration_days": 5,
+        "notes": "Krakow is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Seville",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Autumn",
+        "activities": [
+            "Beach Relaxation",
+            "Temple Visits",
+            "Art Galleries"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 291,
+        "recommended_duration_days": 7,
+        "notes": "Seville is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Granada",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Local Cuisine",
+            "Sightseeing",
+            "Historic Landmarks"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 181,
+        "recommended_duration_days": 5,
+        "notes": "Granada is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Valencia",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Sightseeing",
+            "Skiing",
+            "Temple Visits"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 225,
+        "recommended_duration_days": 10,
+        "notes": "Valencia is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Cusco",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Shopping",
+            "Beach Relaxation",
+            "Hiking"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 68,
+        "recommended_duration_days": 7,
+        "notes": "Cusco is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Quito",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Shopping",
+            "Skiing",
+            "Museums"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 284,
+        "recommended_duration_days": 10,
+        "notes": "Quito is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Panama City",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Snorkeling",
+            "Temple Visits",
+            "Local Cuisine"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 60,
+        "recommended_duration_days": 7,
+        "notes": "Panama City is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "San Jos\u00e9",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Temple Visits",
+            "Beach Relaxation",
+            "Cultural Tours"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 89,
+        "recommended_duration_days": 5,
+        "notes": "San Jos\u00e9 is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Cartagena",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Shopping",
+            "City Tours",
+            "Local Cuisine"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 183,
+        "recommended_duration_days": 5,
+        "notes": "Cartagena is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Punta Cana",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Winter",
+        "activities": [
+            "Museums",
+            "Snorkeling",
+            "Local Cuisine"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 127,
+        "recommended_duration_days": 3,
+        "notes": "Punta Cana is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Kingston",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Museums",
+            "Shopping",
+            "Sightseeing"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 283,
+        "recommended_duration_days": 7,
+        "notes": "Kingston is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Montego Bay",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Historic Landmarks",
+            "Art Galleries",
+            "Cultural Tours"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 294,
+        "recommended_duration_days": 7,
+        "notes": "Montego Bay is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Havana",
+        "country": "TBD",
+        "visa_required": "No",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Historic Landmarks",
+            "Shopping",
+            "Temple Visits"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 284,
+        "recommended_duration_days": 3,
+        "notes": "Havana is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Guatemala City",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Year-round",
+        "activities": [
+            "Hiking",
+            "Sightseeing",
+            "Shopping"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 241,
+        "recommended_duration_days": 5,
+        "notes": "Guatemala City is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "La Paz",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Snorkeling",
+            "City Tours",
+            "Skiing"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 114,
+        "recommended_duration_days": 10,
+        "notes": "La Paz is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Sucre",
+        "country": "TBD",
+        "visa_required": "Yes",
+        "best_time_to_visit": "Summer",
+        "activities": [
+            "Skiing",
+            "Beach Relaxation",
+            "Hiking"
+        ],
+        "family_friendly": true,
+        "estimated_budget_per_day_usd": 265,
+        "recommended_duration_days": 5,
+        "notes": "Sucre is a popular tourist destination known for its unique attractions and experiences."
+    },
+    {
+        "destination": "Asunci\u00f3n",
+        "country": "TBD",
+        "visa_required": "Depends on nationality",
+        "best_time_to_visit": "Spring",
+        "activities": [
+            "Sightseeing",
+            "Hiking",
+            "Beach Relaxation"
+        ],
+        "family_friendly": false,
+        "estimated_budget_per_day_usd": 159,
+        "recommended_duration_days": 5,
+        "notes": "Asunci\u00f3n is a popular tourist destination known for its unique attractions and experiences."
+    }
+]

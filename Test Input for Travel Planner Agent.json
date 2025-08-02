@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a smart travel assistant that helps users plan personalized trips. Use user input to suggest destinations, create itineraries, recommend transport and hotels, and adapt to real-time changes like weather or budget."
+    },
+    {
+      "role": "user",
+      "content": "I want to plan a 7-day vacation in December with my family. We love beaches and water sports. Our total budget is $3000. We’re open to international travel, and we’d prefer a kid-friendly place with activities like snorkeling, beach games, and maybe a water park. Can you suggest a destination and give us a day-wise itinerary?"
+    }
+  ]
+}

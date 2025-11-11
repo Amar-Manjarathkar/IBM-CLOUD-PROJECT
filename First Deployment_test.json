@@ -1,0 +1,62 @@
+{
+    "input_data": [
+        {
+            "fields": [
+                "age",
+                "job",
+                "marital",
+                "education",
+                "default",
+                "balance",
+                "housing",
+                "loan",
+                "contact",
+                "day",
+                "month",
+                "duration",
+                "campaign",
+                "pdays",
+                "previous",
+                "poutcome"
+            ],
+            "values": [
+                [
+                    45,
+                    "technician",
+                    "married",
+                    "secondary",
+                    "no",
+                    1500,
+                    "yes",
+                    "no",
+                    "cellular",
+                    15,
+                    "may",
+                    120,
+                    3,
+                    300,
+                    1,
+                    "failure"
+                ],
+                [
+                    28,
+                    "student",
+                    "single",
+                    "tertiary",
+                    "no",
+                    2200,
+                    "no",
+                    "no",
+                    "cellular",
+                    5,
+                    "aug",
+                    450,
+                    1,
+                    -1,
+                    0,
+                    "unknown"
+                ]
+            ]
+        }
+    ]
+}

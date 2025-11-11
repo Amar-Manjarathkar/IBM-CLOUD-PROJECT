@@ -1,4 +1,6 @@
 🚀 Projects
+
+
 This repository contains two main projects:
 
 1. Travel Buddy: An Agentic AI Planner
